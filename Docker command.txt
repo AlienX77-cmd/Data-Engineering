@@ -1,0 +1,4 @@
+docker exec -it cassandra cqlsh -u cassandra -p cassandra localhost 9042
+
+
+/usr/lib/jvm/java-11-openjdk-amd64/bin
